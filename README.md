@@ -1,8 +1,9 @@
-# php-webdriver – Selenium WebDriver bindings for PHP
+# This is archived version.
+# Use [php-webdriver](https://github.com/php-webdriver/php-webdriver) as up-to-date replacement.
+
+## php-webdriver – Selenium WebDriver bindings for PHP
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/facebook/webdriver.svg?style=flat-square)](https://packagist.org/packages/facebook/webdriver)
-[![Travis Build](https://img.shields.io/travis/facebook/php-webdriver/community.svg?style=flat-square)](https://travis-ci.org/facebook/php-webdriver)
-[![Sauce Test Status](https://saucelabs.com/buildstatus/php-webdriver)](https://saucelabs.com/u/php-webdriver)
 [![Total Downloads](https://img.shields.io/packagist/dt/facebook/webdriver.svg?style=flat-square)](https://packagist.org/packages/facebook/webdriver)
 [![License](https://img.shields.io/packagist/l/facebook/webdriver.svg?style=flat-square)](https://packagist.org/packages/facebook/webdriver)
 
